@@ -129,16 +129,3 @@ emoji-maker/
 └── styles/              # Estilos globais
 ```
 
-## 🤝 Contribuindo
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## 🙏 Agradecimentos
-
-- [Stability AI](https://stability.ai/) pelo modelo SDXL
-- [Replicate](https://replicate.com/) pela API de IA
-- [Supabase](https://supabase.com/) pelo backend e storage 
